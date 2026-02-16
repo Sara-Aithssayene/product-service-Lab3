@@ -73,4 +73,5 @@ jobs:
         with:
           app-name: 'product-service-app-Lab3'
           slot-name: 'Production'
+
           
